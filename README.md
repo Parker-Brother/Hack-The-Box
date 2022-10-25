@@ -1,6 +1,5 @@
 # Hack The Box
-***
-
+![!](https://www.hackthebox.com/videos/platform.webm#t=,7.5)
 ## Introduction
 1. [Getting Started](https://github.com/Parker-Brother/HackTheBoxCheatSheets/blob/main/Getting%20Started.md)
 
