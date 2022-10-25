@@ -1,5 +1,7 @@
 # Hack The Box
 
+![!](https://www.hackthebox.com/images/htb_socialmedia_cover.png)
+
 ## Introduction
 1. [Getting Started](https://github.com/Parker-Brother/HackTheBoxCheatSheets/blob/main/Getting%20Started.md)
 
