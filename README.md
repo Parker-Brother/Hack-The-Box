@@ -31,5 +31,5 @@
 24. [Attacking Common Applications](https://github.com/Parker-Brother/Hack-The-Box/blob/main/24.%20Attacking%20Common%20Applications.md)
 
 ## Post-Exploitation
-25. [Linux Privilege Escalation]()
-26. [Windows Privilege Escalation]()
+25. [Linux Privilege Escalation](https://github.com/Parker-Brother/Hack-The-Box/blob/main/25.%20Linux%20Privilege%20Escalation.md)
+26. [Windows Privilege Escalation](https://github.com/Parker-Brother/Hack-The-Box/blob/main/26.%20Windows%20Privilege%20Escalation.md)
